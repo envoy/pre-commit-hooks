@@ -1,0 +1,5 @@
+-   id: rubocop
+    name: Run Rubocop Ruby style checks
+    entry: rubocop
+    language: ruby
+    files: \.(rb)$
